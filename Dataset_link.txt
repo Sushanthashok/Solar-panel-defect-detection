@@ -1,0 +1,3 @@
+Dataset Name: Solar panel defect detection
+Source: Kaggle
+URL: https:https://www.kaggle.com/datasets/dk79944/solar-plate-image
